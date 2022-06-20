@@ -1,0 +1,13 @@
+.btnone, .btntwo {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.btnone {
+    background: black;
+    color: white;
+}
+
+.btntwo {
+    background: yellow;
+}
